@@ -1,0 +1,11 @@
+C:\Projects\C#\LoginSystem\deltwareLogin\deltwareLogin\bin\Debug\deltwareLogin.exe.config
+C:\Projects\C#\LoginSystem\deltwareLogin\deltwareLogin\bin\Debug\deltwareLogin.exe
+C:\Projects\C#\LoginSystem\deltwareLogin\deltwareLogin\bin\Debug\deltwareLogin.pdb
+C:\Projects\C#\LoginSystem\deltwareLogin\deltwareLogin\obj\Debug\deltwareLogin.csprojAssemblyReference.cache
+C:\Projects\C#\LoginSystem\deltwareLogin\deltwareLogin\obj\Debug\deltwareLogin.Form1.resources
+C:\Projects\C#\LoginSystem\deltwareLogin\deltwareLogin\obj\Debug\deltwareLogin.Properties.Resources.resources
+C:\Projects\C#\LoginSystem\deltwareLogin\deltwareLogin\obj\Debug\deltwareLogin.csproj.GenerateResource.cache
+C:\Projects\C#\LoginSystem\deltwareLogin\deltwareLogin\obj\Debug\deltwareLogin.csproj.CoreCompileInputs.cache
+C:\Projects\C#\LoginSystem\deltwareLogin\deltwareLogin\obj\Debug\deltwareLogin.exe
+C:\Projects\C#\LoginSystem\deltwareLogin\deltwareLogin\obj\Debug\deltwareLogin.pdb
+C:\Projects\C#\LoginSystem\deltwareLogin\deltwareLogin\obj\Debug\deltwareLogin.Form2.resources
